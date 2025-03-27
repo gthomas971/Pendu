@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hangwoman-6367c66f22e6f_0: 2447028425602269075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
